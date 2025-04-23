@@ -13,6 +13,9 @@
 > ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 > ![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+## Projects
+- [Recognition](https://github.com/Noah-GomHuc/Recognition_Project)
+
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/noah-gomez-huchan-6066a3264/)
 - [Email me](mailto:nhuchancai@gmail.com)
